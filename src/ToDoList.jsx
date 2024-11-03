@@ -44,7 +44,7 @@ export default function ToDoList() {
       <main>
         <div className="app-container">
           <div className="to-do-list">
-            <h1>Todo List</h1>
+            <h2>Todo List</h2>
 
             <div>
               <input
